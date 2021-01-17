@@ -1,6 +1,6 @@
 # Release Notes
 
-### 3.9.10 (January 14, 2021)
+### 3.9.10 (January 17, 2021)
 * Added the ability to pass an extension dial on a target dial on a custom extension.
 
 ### 3.9.9 (November 23, 2020)
