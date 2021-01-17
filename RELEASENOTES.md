@@ -1,5 +1,8 @@
 # Release Notes
 
+### 3.9.10 (January 14, 2021)
+* Added the ability to pass an extension dial on a target dial on a custom extension.
+
 ### 3.9.9 (November 23, 2020)
 * Fix for is_admin db column on some systems not being set as PHP boolean. [#486]
 
